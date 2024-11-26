@@ -1,0 +1,42 @@
+h1{
+    font-size: 32px;
+    text-shadow: -1px -1px #0c0, 1px 1px #060, -3px 0 4px #000;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #090;
+    padding:16px;
+    font-weight:lighter;
+    -moz-box-shadow: 2px 2px 6px #888;  
+    -webkit-box-shadow: 2px 2px 6px #888;  
+    box-shadow:2px 2px 6px #888;  
+    text-align:center;
+    display:block;
+    margin:16px
+    }
+    
+ p {
+    font-size: 20px;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    }
+    
+
+
+img {
+    width:400px ;
+    height:300px
+    }
+
+h6 {
+    font-size: 32px;
+    font-weight: bold;
+    font-style: oblique;
+    text-decoration: underline;
+    text-shadow: -1px -1px rgb(62, 11, 245), 1px 1px rgb(47, 86, 192), -3px 0 4px #000;
+    text-align: left;
+    color: #1d0892
+    }
+
+body {
+    background-color: #007471;
+    }
+
